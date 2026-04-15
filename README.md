@@ -12,7 +12,7 @@ The result is a processed file that keeps its identity but lands closer to a use
 
 ---
 
-## Why it exists
+## Why CALP exists
 Anyone who has ever run old recordings, lo-fi material, podcasts or highly dynamic music through a simple normalizer knows the problem:
 - quiet passages get boosted too much
 - whispered or sparse sections become unnaturally loud
