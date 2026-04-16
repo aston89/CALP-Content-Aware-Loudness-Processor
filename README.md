@@ -201,6 +201,7 @@ python CALP_DSP.py input.wav output.wav --target-lufs -14
 - `input` → input audio file (WAV recommended)
 - `output` → processed output file
 - `--target-lufs` → loudness target (default: -14 LUFS)
+- `--verbose` → output more info
 
 ### Example workflows
 
