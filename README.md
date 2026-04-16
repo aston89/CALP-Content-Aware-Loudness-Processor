@@ -248,7 +248,7 @@ It is not intended to replace a mastering engineer but to make material more con
 
 ---
 
-## Emergent behavior under extreme gain targets (experimental notes)
+## Emergent behavior under extreme operational regimes
 
 During testing, CALP was intentionally driven beyond typical mastering ranges like -6 LUFS region and below in order to observe failure modes and limiter interaction under extreme conditions.
 
